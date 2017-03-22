@@ -3,7 +3,6 @@ public class Tema3 {
     public static void main(String[] args) {
 
         System.out.print("Tasteaza numarul unei luni: ");
-
         int alege;
         Scanner in = new Scanner(System.in);
         alege = in.nextInt();
