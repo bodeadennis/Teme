@@ -8,7 +8,6 @@ public class Tema3 {
         Scanner in = new Scanner(System.in);
         alege = in.nextInt();
 
-
         String monthString;
         switch (alege) {
             case 1:  monthString = "Ianuarie";
