@@ -6,7 +6,7 @@ class Tema6 {
 
         System.out.print("Introduce temperatura in Fahrenheit: ");
         Scanner in = new Scanner(System.in);
-        fr = in.nextInt();
+        fr = in.nextDouble();
 
 
         cel = (fr - 32) * 5 / 9;
