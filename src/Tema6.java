@@ -8,7 +8,6 @@ class Tema6 {
         Scanner in = new Scanner(System.in);
         fr = in.nextDouble();
 
-
         cel = (fr - 32) * 5 / 9;
         System.out.print("Echivalentul a " + fr + " grade Fahrenheit e " + cel + " grade Celsius.");
     }
