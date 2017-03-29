@@ -17,6 +17,5 @@ public class SumaN {
       System.out.println(sum);
 
 
-
     }
 }
