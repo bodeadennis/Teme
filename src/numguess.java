@@ -15,6 +15,7 @@ public class numguess{
         System.out.print("Incearca: ");
         int nr=0;
 
+
         do {
             guess = keyboard.nextInt();
             nr++;
