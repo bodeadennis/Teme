@@ -20,14 +20,12 @@ public class UserPass {
             System.out.print("password: ");
             String p = input.next();
 
-
             nimerit = isCombinatiaBuna(u, p);
             if (nimerit) {
                 lansez();
             }
         }
     }
-
 
     public static void lansez() {
         System.out.println("You are loggin");
