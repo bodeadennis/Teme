@@ -20,6 +20,7 @@ public class UserPass {
             System.out.print("password: ");
             String p = input.next();
 
+
             nimerit = isCombinatiaBuna(u, p);
             if (nimerit) {
                 lansez();
